@@ -1,0 +1,2 @@
+# BJT-WORKING-AND-REGIONS
+Made using Gemini on 291026
